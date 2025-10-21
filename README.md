@@ -5,3 +5,4 @@
 3. Defina a porta local a ser usada por seu App `APP_PORT=8000`
 4. Defina a senha de root do banco de dados `DB_ROOT_PASSWORD=root`
 5. Defina a porta local a ser usada pelo banco de dados `DB_PORT=3306`
+6. 
